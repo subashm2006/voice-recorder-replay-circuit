@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-The Voice Recorder and Replay Circuit is a mini project developed as part of my first-semester Electronics and Communication Engineering coursework.
+The Voice Recorder and Replay Circuit is an individual mini project developed as part of my first-semester Electronics and Communication Engineering coursework.
 
-The project focuses on recording and replaying voice signals using the APR9301 voice recorder and playback IC. The circuit is designed to provide voice recording and playback with a simple hardware implementation.
+The project focuses on recording and replaying voice signals using the APR9301 voice recorder and playback IC. The circuit provides voice recording and playback through a simple hardware implementation.
 
 ## 🎯 Objective
 
@@ -24,7 +24,7 @@ Voice recording systems can be useful in several applications such as:
 - Emergency systems
 - Event recorders
 
-The project was motivated by the importance of audio evidence and voice recording in practical applications.
+The project was motivated by the importance of audio recording in practical applications.
 
 ## ⚙️ Working Principle
 
@@ -59,7 +59,7 @@ Speaker
 - Capacitors
 - Connecting wires
 
-### Components listed in the project
+### Components Listed in the Project
 
 - 1KΩ resistors – 2
 - 4.7Ω resistors – 2
@@ -74,7 +74,15 @@ Speaker
 
 The APR9301 is a single-chip voice recording and playback device capable of recording and replaying voice signals. It uses non-volatile flash memory technology for storing recorded information.
 
-The project documentation specifies a single 5V supply and approximately 25mA operating current.
+The project documentation specifies a 5V supply and approximately 25mA operating current.
+
+## 📐 Block Diagram
+
+![Voice Recorder and Replay Circuit - Block Diagram](images/block-diagram.jpeg)
+
+## 🔧 Final Prototype
+
+![Voice Recorder and Replay Circuit - Final Prototype](images/final-prototype.jpeg)
 
 ## 📊 Results
 
@@ -86,16 +94,6 @@ The developed circuit demonstrated:
 - Reliable storage of recorded information.
 - Low-power operation.
 - A compact and cost-effective circuit implementation.
-
-## 📷 Project Images
-
-### 📐 Block Diagram
-
-![Voice Recorder and Replay Circuit - Block Diagram](images/Sem%201%20project%20block%20diagram%20image%20-%20Subash%20M.jpeg)
-
-### 🔧 Final Prototype
-
-![Voice Recorder and Replay Circuit - Final Prototype](images/Sem%201%20project%20image%20-%20Subash%20M.jpeg)
 
 ## 👨‍💻 My Role
 
