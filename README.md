@@ -89,13 +89,19 @@ The developed circuit demonstrated:
 
 ## 📷 Project Images
 
-Project photographs and circuit images will be added here.
+### 📐 Block Diagram
+
+![Voice Recorder and Replay Circuit - Block Diagram](images/Sem%201%20project%20block%20diagram%20image%20-%20Subash%20M.jpeg)
+
+### 🔧 Final Prototype
+
+![Voice Recorder and Replay Circuit - Final Prototype](images/Sem%201%20project%20image%20-%20Subash%20M.jpeg)
 
 ## 👨‍💻 My Role
 
-**Project Member – Electronics and Communication Engineering**
+**Individual Project**
 
-My work involved studying the voice recording and playback concept, understanding the APR9301-based circuit, and developing the project documentation and presentation.
+As this was an individual mini project, I was responsible for the complete project work, including studying the voice recording and playback concept, understanding the APR9301-based circuit, assembling and working with the circuit, documenting the project, and presenting the project.
 
 ## 🎓 Learning Outcomes
 
